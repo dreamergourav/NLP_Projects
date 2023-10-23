@@ -34,4 +34,3 @@ iface = gr.Interface(
     description="OpenAI's GPT-2 is an unsupervised language model that generates coherent text. Input a sentence to see what it completes it with. Takes around 20 seconds to run.",
 ).launch()
 
-tell
